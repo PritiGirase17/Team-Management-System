@@ -24,7 +24,7 @@ public class CP {
 			
 			String user = "root";
 			
-			String password = "992211";
+			String password = "******";
 			
 			con = DriverManager.getConnection(url, user, password);
 		} 
